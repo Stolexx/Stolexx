@@ -10,7 +10,7 @@
 
 - 🏫 2nd-year prep student (Maths, Physics, CS) @ Lycée Thiers, Marseille
 - 🚀 Aspiring **Quant Engineer** / **Quant Researcher**  
-- 🎯 Goal: Get into **ENSIMAG**, then **MSCF @ Carnegie Mellon**  
+- 🎯 Goal: Get into **ENSAE** or **ENSIMAG**
 - 🍏 Apple enthusiast
 
 ---
