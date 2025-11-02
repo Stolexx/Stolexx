@@ -9,7 +9,7 @@
 ### 🎓 About Me
 
 - 🏫 2nd-year prep student (Maths, Physics, CS) @ Lycée Thiers, Marseille
-- 🚀 Aspiring **Quant Engineer** / **Quant Researcher**  
+- 🚀 Aspiring **Quant Engineer** in the US 🇺🇸
 - 🎯 Goal: Get into **ENSAE** or **ENSIMAG**
 - 🍏 Apple enthusiast
 
@@ -17,8 +17,9 @@
 
 ### 🛠️ Projects
 
+- 🚛 **2nd TIPE**: Optimization of delivery routes with return to depot *(2025-26)*
 - 🎰 **Diamond Bot**: Discord bot allowing users to play games, gamble virtual money and compete with one another *(2025)*
-- 🔌 **TIPE**: Optimal placement of EV charging stations using graph theory *(2024-25)*
+- 🔌 **1st TIPE**: Optimal placement of EV charging stations using graph theory *(2024-25)*
 - 🧱 **Minecraft**: I participated in the development of well-known Minecraft servers in the French community during my teenage years *(2017-2022)*
 
 ---
